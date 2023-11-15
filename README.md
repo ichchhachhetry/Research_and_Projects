@@ -1,7 +1,7 @@
 # Research_and_Projects
 
 
-This is a public repository of Ichchha MC that contains personal projects and research articles.
+This is a public repository of Ichchha MC that contains her personal projects and research articles.
 
 
 ##Research Paper Description##
@@ -23,7 +23,7 @@ This paper has been published at International Journal of Science and Engineerin
 Link to the paper: http://www.ijsred.com/volume6/issue6/IJSRED-V6I6P22.pdf
 
 
-##Book description##
+##Book description## **Echos of Enigma**
 
 Introduction: 
 
