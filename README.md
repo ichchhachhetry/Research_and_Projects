@@ -13,3 +13,7 @@ of two distinct differential equations that factor in the spatial distribution o
 shaping its expansive behavior over time. This review paper delves into the intricate variations of Friedmann’s equations, elucidating
 the underpinnings of cosmic expansion, while also probing the enigmatic role of dark matter in this expansive framework.
 Keywords: Friedmann-Lemaˆıtre-Robertson-Walker (FLRW) metric, General Theory of Relativity, Cosmic expansion, redshift
+
+
+This paper has been published at International Journal of Science and Engineering in its Nov-Dec volume of 2023.
+Link to the paper: http://www.ijsred.com/volume6/issue6/IJSRED-V6I6P22.pdf
