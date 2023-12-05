@@ -1,7 +1,7 @@
 # Research_and_Projects
 
 
-This is a public repository of Ichchha MC that contains her personal project and research article.
+This is a public repository of Ichchha M.C. that contains her personal project and research article.
 
 
 ##Research Paper Description##
